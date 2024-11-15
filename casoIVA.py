@@ -1,4 +1,4 @@
-"""print("Programa para calculo IVA")
+print("Programa para calculo IVA")
 
 precio_sin_IVA=float(input("introduce un precio"))
 IVA =float(input("introduce el IVA"))
@@ -8,7 +8,7 @@ precio_con_IVA=precio_sin_IVA + IVA
 
 print("El precio sin IVA es " ,precio_sin_IVA)
 print("El IVA es " , IVA)
-print("El precio con IVA es " , precio_con_IVA)"""
+print("El precio con IVA es " , precio_con_IVA)
 
 
 #Código para comprobar el test
